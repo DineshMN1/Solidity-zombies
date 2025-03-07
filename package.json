@@ -1,0 +1,27 @@
+{
+  "name": "solidity-zombie-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DineshMN1/Solidity-zombies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DineshMN1/Solidity-zombies/issues"
+  },
+  "homepage": "https://github.com/DineshMN1/Solidity-zombies#readme",
+  "dependencies": {
+    "hardhat": "^2.22.19"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
